@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **-> MERN STACK <-**
 
-- 👨‍💻 All of my projects are available at [lucasfiorentino.netlify.app](https://www.lucasfiorentino.netlify.app)
+- 👨‍💻 Personal Web <a href="https://lucasfiorentino.netlify.app" target="blank">lucasfiorentino.netlify.app</a>
 
 - 💬 Ask me about **Anything**
 
