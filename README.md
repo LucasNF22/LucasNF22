@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lucasnfiorentino@gmail.com**
 
-- - 📫 LinkedIn <a href="[https://lucasfiorentino.netlify.app](https://www.linkedin.com/in/lucasnfiorentino/)" target="blank">lucasfiorentino.netlify.app</a>
+- 📫 Or <a href="https://www.linkedin.com/in/lucasnfiorentino/" target="blank">LinkedIn</a>
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
