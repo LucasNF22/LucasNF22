@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Keep learning**
-
-- 🌱 I’m currently learning **-> MERN STACK <-**
+- 🌱 I’m currently learning **-> Next JS <-**
 
 - 👨‍💻 Personal Web <a href="https://lucasfiorentino.netlify.app" target="blank">lnf-dev.vercel.app</a>
 
