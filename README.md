@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **-> Next JS <-**
 
-- 👨‍💻 Personal Web <a href="https://lucasfiorentino.netlify.app" target="blank">lnf-dev.vercel.app</a>
+- 👨‍💻 Personal Web <a href="[https://lucasfiorentino.netlify.app](https://lnf-dev.vercel.app/)" target="blank">lnf-dev.vercel.app</a>
 
 - 💬 Ask me about **Anything**
 
